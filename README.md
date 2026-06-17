@@ -14,7 +14,7 @@
 - 🛠️ Sevimli stack: **React + TypeScript + TailwindCSS + Vite**
 - 🤝 Open-source loyihalarda hamkorlik qilishga ochiqman
 - 📫 Bog'lanish: **ozodbea99@gmail.com**
-
+- 📞 Aloqa uchun **+998(94)-933-30-91**
 ---
 
 ### 🧰 Texnologiyalar
@@ -51,6 +51,6 @@
 
 <p align="left">
   <a href="mailto:ozodbea99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/SIZNING_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/o=abuduaxatov.xca"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/SIZNING_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
