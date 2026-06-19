@@ -17,22 +17,6 @@
 - 📞 Aloqa uchun **+998(94)-933-30-91**
 ---
 
-
----
-
-### 📊 GitHub statistikam
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouser-cmbk&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouser-cmbk&theme=tokyonight" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouser-cmbk&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
----
-
 ### 🌐 Bog'lanish
 
 <p align="left">
