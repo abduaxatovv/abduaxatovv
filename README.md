@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Salom,%20Men%20Ozodbek!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Kod%20yozaman,%20g'oyalarni%20tiriltiraman%20✨&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Salom,%20Men%20Ozodbek Abuaxatov!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Kod%20yozaman,%20g'oyalarni%20tiriltiraman%20✨&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/GITHUB_USERNAME">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=F7B500&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full-Stack+Developer+%F0%9F%9A%80;Ochiq+manba+ishqibozi+%F0%9F%92%9A;Doim+yangi+narsa+o'rganaman+%F0%9F%93%9A;Kofe+%E2%98%95+%2B+Kod+%F0%9F%92%BB+%3D+Men" alt="Typing SVG" />
