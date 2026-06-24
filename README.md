@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Salom,%20Men%20Ozodbek!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Kod%20yozaman,%20g'oyalarni%20tiriltiraman%20✨&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Salom,%20Men%20Ozodbek!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=15%20yoshli%20Frontend%20Developer%20%F0%9F%9A%80&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=F7B500&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full-Stack+Developer+%F0%9F%9A%80;Ochiq+manba+ishqibozi+%F0%9F%92%9A;Doim+yangi+narsa+o'rganaman+%F0%9F%93%9A;Kofe+%E2%98%95+%2B+Kod+%F0%9F%92%BB+%3D+Men" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=F7B500&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Next.js+ishqibozi+%E2%9A%9B%EF%B8%8F;Toshkent+%2F+Bekobod%2C+O%27zbekiston+%F0%9F%87%BA%F0%9F%87%BF;Har+kuni+yangi+narsa+o%27rganaman+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,15 +15,19 @@
 
 ---
 
-### 🧬 Men haqimda
+### 👋 Tezkor tanishuv
 
-```yaml
-ism: "Abduaxatov Ozodbek"
-lavozim: "Junior"
-joylashuv: "Toshkent shahar, Bekobod tumani, Zafar shaharchasi🌍"
-o'rganmoqda: "TypeScript, Next.js, Phyton 📖"
-xobbi: ["🎮 Kompyuter o'yinlari", "📷 Fotografiya", "🎵 Musiqa"]
-qiziq_fakt: "O'zimni tengdoshlarimga qaraganda kompyuterga yaxshi tushunaman 🦄"
+```javascript
+const ozodbek = {
+    ism: "Ozodbek Abduaxatov",
+    yosh: 15,
+    manzil: "Toshkent viloyati, Bekobod tumani 🇺🇿",
+    kasb: "Frontend Developer",
+    stack: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "shadcn/ui"],
+    hozir: "Yangi loyiha ustida ishlayapman 🔧",
+    maqsad: "Kuchli Full-Stack developer bo'lish 🚀",
+    qoida: () => "Har kuni 1% yaxshilanish = 1 yilda 37x kuchliroq 📈"
+};
 ```
 
 ---
@@ -32,15 +36,15 @@ qiziq_fakt: "O'zimni tengdoshlarimga qaraganda kompyuterga yaxshi tushunaman �
 
 <div align="center">
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-*(Ushbu rastgani o'z stack'ingizga moslab o'zgartiring — to'liq ro'yxat: [shields.io](https://shields.io) va [Simple Icons](https://simpleicons.org))*
 
 </div>
 
@@ -57,13 +61,66 @@ qiziq_fakt: "O'zimni tengdoshlarimga qaraganda kompyuterga yaxshi tushunaman �
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=f7b500&fire=f7b500" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=f7b500&line=f7b500&point=ffffff" width="95%"/>
+---
+
+### 📈 Faollik grafigi (Activity Graph)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=f7b500&line=f7b500&point=ffffff&area=true&area_color=f7b500" width="95%"/>
 
 </div>
 
 ---
+
+### 🐍 Kontribyutsiyalar ilonchasi
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="95%" />
+
+<sub>💡 Ishlashi uchun repo'ingizga <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action qo'shing</sub>
+
+</div>
+
+---
+
+### 🏆 Yutuqlar
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+### 📌 Sevimli loyihalarim
+
+<div align="center">
+
+<a href="https://github.com/GITHUB_USERNAME/repo-nomi-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=repo-nomi-1&theme=radical&hide_border=true&bg_color=0d1117&title_color=f7b500" />
+</a>
+<a href="https://github.com/GITHUB_USERNAME/repo-nomi-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=repo-nomi-2&theme=radical&hide_border=true&bg_color=0d1117&title_color=f7b500" />
+</a>
+
+<sub>💡 "repo-nomi-1" va "repo-nomi-2" ni o'zingizning haqiqiy repolaringiz nomiga almashtiring</sub>
+
+</div>
+
+---
+
+### 💭 Kunlik dasturchi sitatasi
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
@@ -72,17 +129,8 @@ qiziq_fakt: "O'zimni tengdoshlarimga qaraganda kompyuterga yaxshi tushunaman �
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sizning@email.com)
-
-</div>
-
-<div align="center">
-
-### 💭 Kunlik sitata
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
