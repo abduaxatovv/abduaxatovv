@@ -18,13 +18,12 @@
 ### 🧬 Men haqimda
 
 ```yaml
-ism: "Ismingiz Familiyangiz"
-lavozim: "Sevimli kasbingiz / mutaxassisligingiz"
-joylashuv: "Shahar, Davlat 🌍"
-hozir_band: "Loyiha nomi ustida ishlayapman 🔧"
-o'rganmoqda: "Yangi texnologiya nomi 📖"
-xobbi: ["🎮 O'yin", "📷 Fotografiya", "🎵 Musiqa", "✈️ Sayohat"]
-qiziq_fakt: "Bu yerga o'zingiz haqingizda qiziq narsa yozing 🦄"
+ism: "Abduaxatov Ozodbek"
+lavozim: "Junior"
+joylashuv: "Toshkent shahar, Bekobod tumani, Zafar shaharchasi🌍"
+o'rganmoqda: "TypeScript, Next.js, Phyton 📖"
+xobbi: ["🎮 Kompyuter o'yinlari", "📷 Fotografiya", "🎵 Musiqa"]
+qiziq_fakt: "O'zimni tengdoshlarimga qaraganda kompyuterga yaxshi tushunaman 🦄"
 ```
 
 ---
@@ -68,26 +67,6 @@ qiziq_fakt: "Bu yerga o'zingiz haqingizda qiziq narsa yozing 🦄"
 </div>
 
 ---
-
-### 🐍 Kontribyutsiyalar ilonchasi
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="95%" />
-
-<sub>💡 Bu animatsiya ishlashi uchun repo'ingizga <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action'ini qo'shing</sub>
-
-</div>
-
----
-
-### 🏆 Yutuqlar
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
 
 ---
 
