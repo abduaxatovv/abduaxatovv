@@ -75,33 +75,13 @@ const ozodbek = {
 
 ---
 
-### 🐍 Kontribyutsiyalar ilonchasi
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="95%" />
-
-<sub>💡 Ishlashi uchun repo'ingizga <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action qo'shing</sub>
-
-</div>
-
----
-
-### 🏆 Yutuqlar
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
 ---
 
 ### 📌 Sevimli loyihalarim
 
 <div align="center">
 
-<a href="https://github.com/GITHUB_USERNAME/repo-nomi-1">
+<a href="https://github.com/abduaxatovv/https://cs2-crsshair-maker.netlify.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=repo-nomi-1&theme=radical&hide_border=true&bg_color=0d1117&title_color=f7b500" />
 </a>
 <a href="https://github.com/GITHUB_USERNAME/repo-nomi-2">
