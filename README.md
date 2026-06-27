@@ -66,18 +66,6 @@ const ozodbek = {
 
 ---
 
-### 📈 Faollik grafigi (Activity Graph)
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=f7b500&line=f7b500&point=ffffff&area=true&area_color=f7b500" width="95%"/>
-
-</div>
-
----
-
----
-
 ### 📌 Sevimli loyihalarim
 
 <div align="center">
