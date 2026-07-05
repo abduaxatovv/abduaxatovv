@@ -55,9 +55,6 @@ const ozodbek = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f7b500&icon_color=f7b500" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f7b500" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=f7b500&fire=f7b500" />
