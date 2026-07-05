@@ -63,22 +63,6 @@ const ozodbek = {
 
 ---
 
-### 📌 Sevimli loyihalarim
-
-<div align="center">
-
-<a href="https://github.com/abduaxatovv/https://cs2-crsshair-maker.netlify.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=repo-nomi-1&theme=radical&hide_border=true&bg_color=0d1117&title_color=f7b500" />
-</a>
-<a href="https://github.com/GITHUB_USERNAME/repo-nomi-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=repo-nomi-2&theme=radical&hide_border=true&bg_color=0d1117&title_color=f7b500" />
-</a>
-
-<sub>💡 "repo-nomi-1" va "repo-nomi-2" ni o'zingizning haqiqiy repolaringiz nomiga almashtiring</sub>
-
-</div>
-
----
 
 ### 💭 Kunlik dasturchi sitatasi
 
