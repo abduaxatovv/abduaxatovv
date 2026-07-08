@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Salom,%20Men%20Ozodbek!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=15%20yoshli%20Frontend%20Developer%20%F0%9F%9A%80&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=F7B500&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Frontend+Developer+%F0%9F%92%BB;React+%26%E2%9A%9B%EF%B8%8F;Toshkent+%2F+Bekobod%2C+O%27zbekiston+%F0%9F%87%BA%F0%9F%87%BF;Har+kuni+yangi+narsa+o%27rganaman+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=F7B500&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Frontend+Developer+%F0%9F%92%BB;React+%26%E2%9A%9B%EF%B8%8F;%2C+O%27zbekiston+%F0%9F%87%BA%F0%9F%87%BF;Har+kuni+yangi+narsa+o%27rganaman+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
