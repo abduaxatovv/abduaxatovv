@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GITHUB_USERNAME&color=f7b500&style=for-the-badge&label=PROFIL+KO%27RISHLAR)
 [![GitHub followers](https://img.shields.io/github/followers/GITHUB_USERNAME?style=for-the-badge&color=6e40c9&logo=github)](https://github.com/GITHUB_USERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-f7b500?style=for-the-badge&logo=vercel&logoColor=white)](https://men-haqimda-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-f7b500?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliaoa.netlify.app/)
 
 </div>
 
