@@ -1,78 +1,65 @@
-<div align="center">
+<h1 align="center">Salom, men [Ismingiz] 👋</h1>
+<h3 align="center">[Qisqa slogan, masalan: "Backend developer | Muammolarni sevib hal qiluvchi"]</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Salom,%20Men%20Ozodbek!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=15%20yoshli%20Frontend%20Developer%20%F0%9F%9A%80&descAlignY=55&descSize=18" />
-
-<a href="https://github.com/GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=F7B500&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Frontend+Developer+%F0%9F%92%BB;React+%26%E2%9A%9B%EF%B8%8F;" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=GITHUB_USERNAME&color=f7b500&style=for-the-badge&label=PROFIL+KO%27RISHLAR)
-[![GitHub followers](https://img.shields.io/github/followers/GITHUB_USERNAME?style=for-the-badge&color=6e40c9&logo=github)](https://github.com/GITHUB_USERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-f7b500?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliaoa.netlify.app/)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Yangi+narsalarni+o'rganishni+yaxshi+ko'raman;Kodlashni+seva-seva+qilaman" alt="Typing SVG" />
+</p>
 
 ---
 
-### 👋 Tezkor tanishuv
+### 🙋‍♂️ Men haqimda
 
-```javascript
-const ozodbek = {
-    ism: "Ozodbek Abduaxatov",
-    yosh: 15,
-    manzil: "Toshkent viloyati, Bekobod tumani 🇺🇿",
-    kasb: "Frontend Developer",
-    stack: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "shadcn/ui"],
-    hozir: "Yangi loyiha ustida ishlayapman 🔧",
-    maqsad: "Kuchli Full-Stack developer bo'lish 🚀",
-    qoida: () => "Har kuni 1% yaxshilanish = 1 yilda 37x kuchliroq 📈"
-};
-```
+- 🔭 Hozirda **[loyiha nomi]** ustida ishlayapman
+- 🌱 Hozirda **[o'rganayotgan texnologiya]** ni o'rganyapman
+- 👯 **[qaysi sohada]** loyihalarda hamkorlik qilishni xohlayman
+- 💬 Mendan **[mavzu]** haqida so'rashingiz mumkin
+- 📫 Menga qanday yetib borish mumkin: **[email manzilingiz]**
+- ⚡ Qiziqarli fakt: **[o'zingiz haqingizda qiziq fakt]**
 
 ---
 
-### 🛠️ Texnologiyalar arsenali
+### 🛠️ Texnologiyalar va vositalar
 
-<div align="center">
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-
-
-
-### 💭 Kunlik dasturchi sitatasi
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,github,vscode" alt="Skills" />
+</p>
 
 ---
 
-### 🌐 Men bilan bog'lanish
+### 📊 GitHub statistikam
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[github-username]&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gl1mm666)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gl1mm666/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozodbea99@email.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[github-username]&theme=radical" alt="GitHub Streak" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[github-username]&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+---
 
-<div align="center">
-<sub>⭐ Agar profilim yoqsa, repolarimga yulduzcha bosib ketishni unutmang!</sub>
-</div>
+### 🌐 Ijtimoiy tarmoqlar
+
+<p align="center">
+  <a href="https://t.me/[telegram-username]" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/[linkedin-username]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:[email-manzilingiz]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[github-username]&color=blueviolet" alt="Profile Views" />
+</p>
+
+<p align="center"><i>⭐️ Agar sizga profilim yoqqan bo'lsa, GitHub'da kuzatib boring!</i></p>
