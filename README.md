@@ -1,24 +1,28 @@
-<h1 align="center">Salom, men [Ismingiz] 👋</h1>
-<h3 align="center">[Qisqa slogan, masalan: "Backend developer | Muammolarni sevib hal qiluvchi"]</h3>
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h3 align="center">[Short tagline, e.g. "Full-Stack Developer | Building things that matter"]</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Yangi+narsalarni+o'rganishni+yaxshi+ko'raman;Kodlashni+seva-seva+qilaman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;I+love+learning+new+things;Turning+ideas+into+code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 🙋‍♂️ Men haqimda
+### 🙋‍♂️ About Me
 
-- 🔭 Hozirda **[loyiha nomi]** ustida ishlayapman
-- 🌱 Hozirda **[o'rganayotgan texnologiya]** ni o'rganyapman
-- 👯 **[qaysi sohada]** loyihalarda hamkorlik qilishni xohlayman
-- 💬 Mendan **[mavzu]** haqida so'rashingiz mumkin
-- 📫 Menga qanday yetib borish mumkin: **[email manzilingiz]**
-- ⚡ Qiziqarli fakt: **[o'zingiz haqingizda qiziq fakt]**
+- 🔭 Currently working on **[project name]**
+- 🌱 Currently learning **[technology]**
+- 👯 Looking to collaborate on **[field/topic]**
+- 💬 Ask me about **[topic]**
+- 📫 Reach me at: **[your email]**
+- ⚡ Fun fact: **[something fun about you]**
 
 ---
 
-### 🛠️ Texnologiyalar va vositalar
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,github,vscode" alt="Skills" />
@@ -26,40 +30,61 @@
 
 ---
 
-### 📊 GitHub statistikam
+### 🚀 My Favorite Project
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[github-username]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="[your-project-link]" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Project-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Project" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <b>[Project Name]</b><br/>
+      [Short description of the project — what it does, what problem it solves, what tech you used]<br/><br/>
+      🔗 <a href="[your-project-link]">[your-project-link]</a><br/>
+      💻 <a href="[your-github-repo-link]">Source Code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[github-username]&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[github-username]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[github-username]&theme=gruvbox&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[github-username]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[github-username]&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 Ijtimoiy tarmoqlar
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://t.me/[telegram-username]" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-00C853?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://linkedin.com/in/[linkedin-username]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0091EA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[email-manzilingiz]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:[your-email]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-00BFA5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[github-username]&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=[github-username]&color=00e676&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center"><i>⭐️ Agar sizga profilim yoqqan bo'lsa, GitHub'da kuzatib boring!</i></p>
+<p align="center"><i>⭐️ If you like my profile, follow me on GitHub!</i></p>
