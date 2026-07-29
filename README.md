@@ -29,7 +29,7 @@
 ### 🚀 My Favorite Project
 
 <p align="center">
-  <a href="[your-project-link]" target="_blank">
+  <a href="[https://uzbfy.vercel.app]" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_Project-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Project" />
   </a>
 </p>
