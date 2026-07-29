@@ -43,15 +43,6 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[github-username]&theme=gruvbox&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="GitHub Streak" />
-</p>
-
 
 ### 🌐 Connect With Me
 
