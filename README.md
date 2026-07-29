@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">[Short tagline, e.g. "Full-Stack Developer | Building things that matter"]</h3>
+<h1 align="center">Hi there, I'm Ozodbek 👋</h1>
+<h3 align="center">"Full-Stack Developer | Muhim narsalarni yaratish"</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;I+love+learning+new+things;Turning+ideas+into+code" alt="Typing SVG" />
@@ -9,12 +9,11 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 Currently working on **[project name]**
-- 🌱 Currently learning **[technology]**
-- 👯 Looking to collaborate on **[field/topic]**
-- 💬 Ask me about **[topic]**
-- 📫 Reach me at: **[your email]**
-- ⚡ Fun fact: **[something fun about you]**
+- 🔭 Currently working on **Optimilizator**
+- 🌱 Currently learning **Phyton**
+- 💬 Ask me about **Everythings**
+- 📫 Reach me at: **ozodbea99@gmail.com**
+- ⚡ Fun fact: **I don't just write code. I can also fix the computer I'm writing code on.**
 
 ---
 
@@ -29,7 +28,7 @@
 ### 🚀 My Favorite Project
 
 <p align="center">
-  <a href="[https://uzbfy.vercel.app]" target="_blank">
+  <a href="https://uzbfy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_Project-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Project" />
   </a>
 </p>
@@ -39,8 +38,7 @@
     <td>
       <b>[Project Name]</b><br/>
       [Short description of the project — what it does, what problem it solves, what tech you used]<br/><br/>
-      🔗 <a href="[your-project-link]">[your-project-link]</a><br/>
-      💻 <a href="[your-github-repo-link]">Source Code</a>
+      🔗 <a href="https://uzbfy.vercel.app/">UzbFy</a><br/>
     </td>
   </tr>
 </table>
