@@ -48,19 +48,7 @@ const ozodbek = {
 
 </div>
 
----
 
-### 📊 GitHub statistikasi
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=f7b500&fire=f7b500" />
-
-</div>
-
----
 
 
 ### 💭 Kunlik dasturchi sitatasi
