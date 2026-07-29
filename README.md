@@ -36,8 +36,7 @@
 <table align="center">
   <tr>
     <td>
-      <b>[Project Name]</b><br/>
-      [Short description of the project — what it does, what problem it solves, what tech you used]<br/><br/>
+      <b>[UzbFy]</b><br/>
       🔗 <a href="https://uzbfy.vercel.app/">UzbFy</a><br/>
     </td>
   </tr>
