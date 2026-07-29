@@ -47,19 +47,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduaxatovv&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[github-username]&theme=gruvbox&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[github-username]&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
