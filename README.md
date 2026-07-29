@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;I+love+learning+new+things;Turning+ideas+into+code" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ### 🙋‍♂️ About Me
