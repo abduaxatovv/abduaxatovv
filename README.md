@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ozodbek 👋</h1>
-<h3 align="center">"Full-Stack Developer | Muhim narsalarni yaratish"</h3>
+<h3 align="center">""Full-Stack Developer | Building things that matter"</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;I+love+learning+new+things;Turning+ideas+into+code" alt="Typing SVG" />
@@ -64,13 +64,13 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/[telegram-username]" target="_blank">
+  <a href="https://t.me/glimm666" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-00C853?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://linkedin.com/in/[linkedin-username]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0091EA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[your-email]" target="_blank">
+  <a href="mailto: ozodbea99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-00BFA5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[github-username]&color=00e676&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abduaxatovv&color=00e676&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center"><i>⭐️ If you like my profile, follow me on GitHub!</i></p>
