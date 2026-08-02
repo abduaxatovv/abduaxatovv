@@ -31,9 +31,10 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">[UzbFy]</h3>
+<h3 align="center">UzbFy</h3>
+<p>https://uzbfy.vercel.app/</p>
 <p align="center">
-  <a href="[https://uzbfy.vercel.app/]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
   <a href="[project-1-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
 </p>
 <h3 align="center">[Project 2 Name]</h3>
