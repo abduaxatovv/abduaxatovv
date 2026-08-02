@@ -31,68 +31,69 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">UzbFy</h3>
-<p>https://uzbfy.vercel.app/</p>
+<h3 align="center">FitTrack</h3>
+<p align="center">Kunlik mashqlarni kuzatish uchun fitnes ilovasi</p>
 <p align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
-  <a href="[project-1-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://fitnesesns-app.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
 </p>
-<h3 align="center">[Project 2 Name]</h3>
-<p align="center">[Short description of project 2]</p>
+
+<h3 align="center">UzBFy</h3>
+<p align="center">Onlayn musiqa pleyeri</p>
 <p align="center">
-  <a href="[project-2-link]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
-  <a href="[project-2-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://uzbfy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
 </p>
-<h3 align="center">[Project 3 Name]</h3>
-<p align="center">[Short description of project 3]</p>
+
+<h3 align="center">Vazifalar Menejeri</h3>
+<p align="center">Kundalik ish va vazifalarni boshqarish uchun task manager</p>
 <p align="center">
-  <a href="[project-3-link]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
-  <a href="[project-3-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://tassk-managerrd.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
 </p>
-<h3 align="center">[Project 4 Name]</h3>
-<p align="center">[Short description of project 4]</p>
+
+<h3 align="center">ArtVerse</h3>
+<p align="center">NFT sotib olish va sotish uchun marketplace platformasi</p>
 <p align="center">
-  <a href="[project-4-link]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
-  <a href="[project-4-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://nft-marketplacew.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
 </p>
-<h3 align="center">[Project 5 Name]</h3>
-<p align="center">[Short description of project 5]</p>
+
+<h3 align="center">ImgUpscaler</h3>
+<p align="center">Rasmlarni sifatini yo'qotmasdan kattalashtirish xizmati</p>
 <p align="center">
-  <a href="[project-5-link]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
-  <a href="[project-5-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://img-upscaler-psi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
 </p>
+
 </td>
 <td width="50%" valign="top">
-<h3 align="center">[Project 6 Name]</h3>
-<p align="center">[Short description of project 6]</p>
+
+<h3 align="center">Minesweeper</h3>
+<p align="center">Klassik minalar maydoni o'yini</p>
 <p align="center">
-  <a href="[project-6-link]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
-  <a href="[project-6-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://minesweeper-gamea.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
 </p>
-<h3 align="center">[Project 7 Name]</h3>
-<p align="center">[Short description of project 7]</p>
+
+<h3 align="center">TikTaka</h3>
+<p align="center">Klassik krestiki-noliki (tic-tac-toe) o'yini</p>
 <p align="center">
-  <a href="[project-7-link]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
-  <a href="[project-7-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://tikitakaa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
 </p>
-<h3 align="center">[Project 8 Name]</h3>
-<p align="center">[Short description of project 8]</p>
+
+<h3 align="center">SHAKL Arxitektura</h3>
+<p align="center">Arxitektura va interior studiyasi uchun landing sahifa</p>
 <p align="center">
-  <a href="[project-8-link]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
-  <a href="[project-8-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://shakl-arxitektura.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
 </p>
-<h3 align="center">[Project 9 Name]</h3>
-<p align="center">[Short description of project 9]</p>
+
+<h3 align="center">Tetris</h3>
+<p align="center">Klassik Tetris o'yinining veb-versiyasi</p>
 <p align="center">
-  <a href="[project-9-link]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
-  <a href="[project-9-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://tetrris.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
 </p>
-<h3 align="center">[Project 10 Name]</h3>
-<p align="center">[Short description of project 10]</p>
+
+<h3 align="center">Snake Game</h3>
+<p align="center">Klassik ilon o'yini</p>
 <p align="center">
-  <a href="[project-10-link]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
-  <a href="[project-10-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://sneakea.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
 </p>
+
 </td>
 </tr>
 </table>
