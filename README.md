@@ -34,7 +34,7 @@
 <h3 align="center">[Project 1 Name]</h3>
 <p align="center">[Short description of project 1]</p>
 <p align="center">
-  <a href="[project-1-link]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
+  <a href="[https://uzbfy.vercel.app/]" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square&logoColor=white" alt="Live Demo" /></a>
   <a href="[project-1-repo-link]" target="_blank"><img src="https://img.shields.io/badge/GitHub-0091EA?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
 </p>
 
